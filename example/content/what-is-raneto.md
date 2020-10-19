@@ -1,9 +1,7 @@
-/*
-Title: What is Raneto?
+---
+Title: Python Basics
 Sort: 1
-ShowOnHome: true
-*/
-
+---
 Raneto is a Knowledgebase platform for [Node.js](http://nodejs.org) that uses static
 [Markdown](http://daringfireball.net/projects/markdown) files to power the knowledgebase.
 
