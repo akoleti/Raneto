@@ -16,7 +16,7 @@ var config = {
   support_email: 'akoleti@gmail.com',
 
   // Footer Text / Copyright
-  copyright: 'Copyright &copy; ' + new Date().getFullYear() + ' - Dexterous LLC',
+  copyright: 'Copyright &copy; ' + new Date().getFullYear() + ' - ',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
